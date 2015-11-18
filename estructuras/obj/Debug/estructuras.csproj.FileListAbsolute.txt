@@ -10,3 +10,15 @@ c:\users\adan\documents\visual studio 2013\Projects\estructuras\estructuras\obj\
 c:\users\adan\documents\visual studio 2013\Projects\estructuras\estructuras\obj\Debug\estructuras.linkedList.resources
 c:\users\adan\documents\visual studio 2013\Projects\estructuras\estructuras\obj\Debug\estructuras.queue.resources
 c:\users\adan\documents\visual studio 2013\Projects\estructuras\estructuras\obj\Debug\estructuras.stack.resources
+C:\Users\adan\Documents\repositoriosVisual\estructuras\estructuras\bin\Debug\estructuras.exe.config
+C:\Users\adan\Documents\repositoriosVisual\estructuras\estructuras\obj\Debug\estructuras.exe
+C:\Users\adan\Documents\repositoriosVisual\estructuras\estructuras\obj\Debug\estructuras.pdb
+C:\Users\adan\Documents\repositoriosVisual\estructuras\estructuras\bin\Debug\estructuras.exe
+C:\Users\adan\Documents\repositoriosVisual\estructuras\estructuras\bin\Debug\estructuras.pdb
+C:\Users\adan\Documents\repositoriosVisual\estructuras\estructuras\obj\Debug\estructuras.csprojResolveAssemblyReference.cache
+C:\Users\adan\Documents\repositoriosVisual\estructuras\estructuras\obj\Debug\estructuras.Form1.resources
+C:\Users\adan\Documents\repositoriosVisual\estructuras\estructuras\obj\Debug\estructuras.linkedList.resources
+C:\Users\adan\Documents\repositoriosVisual\estructuras\estructuras\obj\Debug\estructuras.Properties.Resources.resources
+C:\Users\adan\Documents\repositoriosVisual\estructuras\estructuras\obj\Debug\estructuras.queue.resources
+C:\Users\adan\Documents\repositoriosVisual\estructuras\estructuras\obj\Debug\estructuras.stack.resources
+C:\Users\adan\Documents\repositoriosVisual\estructuras\estructuras\obj\Debug\estructuras.csproj.GenerateResource.Cache

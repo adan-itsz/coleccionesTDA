@@ -81,6 +81,7 @@
             this.btnAgregarDespues.TabIndex = 3;
             this.btnAgregarDespues.Text = "Agregar despues de";
             this.btnAgregarDespues.UseVisualStyleBackColor = true;
+            this.btnAgregarDespues.Click += new System.EventHandler(this.btnAgregarDespues_Click);
             // 
             // btnEliminar
             // 
@@ -91,6 +92,7 @@
             this.btnEliminar.TabIndex = 4;
             this.btnEliminar.Text = "Eliminar";
             this.btnEliminar.UseVisualStyleBackColor = true;
+            this.btnEliminar.Click += new System.EventHandler(this.btnEliminar_Click);
             // 
             // btnEliminarPrimero
             // 
@@ -101,6 +103,7 @@
             this.btnEliminarPrimero.TabIndex = 5;
             this.btnEliminarPrimero.Text = "Eliminar primero";
             this.btnEliminarPrimero.UseVisualStyleBackColor = true;
+            this.btnEliminarPrimero.Click += new System.EventHandler(this.btnEliminarPrimero_Click);
             // 
             // btnEliminarUltimo
             // 
@@ -111,6 +114,7 @@
             this.btnEliminarUltimo.TabIndex = 6;
             this.btnEliminarUltimo.Text = "Eliminar ultimo";
             this.btnEliminarUltimo.UseVisualStyleBackColor = true;
+            this.btnEliminarUltimo.Click += new System.EventHandler(this.btnEliminarUltimo_Click);
             // 
             // listBox1
             // 
